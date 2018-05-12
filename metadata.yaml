@@ -1,0 +1,34 @@
+_repo: Dick-RandallThe-Young-Athlete_38471
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Biggs, Walter
+    gutenberg_agent_id: '39488'
+    url: http://www.gutenberg.org/2009/agents/39488
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clark, Ellery H. (Ellery Harding)
+    alias: Clark, Ellery Harding
+    birthdate: 1874
+    deathdate: 1949
+    gutenberg_agent_id: '37419'
+    url: http://www.gutenberg.org/2009/agents/37419
+description: ''
+gutenberg_issued: '2012-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38471'
+  lccn: '10019380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+- !lcsh 'Athletics -- Juvenile fiction'
+title: Dick Randall, the Young Athlete
+url: http://www.gutenberg.org/ebooks/38471
